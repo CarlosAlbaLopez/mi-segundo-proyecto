@@ -1,2 +1,4 @@
 cabra
 ardilla
+caballo
+vaca
